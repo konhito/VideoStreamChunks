@@ -22,7 +22,7 @@ cd VideoStreamChunks
 ```
 ### Place your video  in the public file
 
-### TO run it:
+### To run it:
 ```bash
 npm run dev
 ```
